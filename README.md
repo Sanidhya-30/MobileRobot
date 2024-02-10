@@ -36,7 +36,7 @@ source ~/{name_of_workspace}/devel/setup.bash
 
 ### Simulation Video
 Click on Image to play
-[![Watch the video]((https://drive.google.com/file/d/1BoKz6XGQ22e1k6eRIkVq71NWsnCABwCc/view?usp=drive_link))](https://drive.google.com/file/d/1vmsmPdcKrrZkSQpXXTBelW2MjsGrMyF-/view?usp=sharing))
+[![Watch the video](https://drive.google.com/file/d/14UZnkJskSmzBEio8NkAA1Ng_3ccjfzua/view?usp=sharing)](https://drive.google.com/file/d/14UZnkJskSmzBEio8NkAA1Ng_3ccjfzua/view?usp=sharing))
 
 
 ## Prerequisites
