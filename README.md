@@ -1,9 +1,11 @@
 # Mobile Robot
-Repository of Autonomous Mobile Vehicle named MoRo capable of navigation and mapping.
+Repository of Mobile Robot capable of Autonomous navigation and mapping.
 
 ## Key Feature:-
-* Autonomous robot with payload to carry for multiple purposes which is capable to move on RC control.
-* Manipulate flight by gesture recognition.
+* multiple purposes AMR.
+* Wall following algorithm using LiDAR data
+* Automated mapping of the environment 
+* Performs SLAM
 
 <!--## Electro-mechanical design:
 
@@ -19,16 +21,15 @@ Repository of Autonomous Mobile Vehicle named MoRo capable of navigation and map
 
 ### Running Sim
 ------------------
-* This package contains all the files related to robot and its configuration 
+* This package contains all the files related to the robot and its configuration 
 
 ### Setup and launching the simulation environment:-
 
-* Clone the repo, build using catkin_make.
+* Clone the repo, and build using catkin_make.
 ```
 cd MobileRobot
 catkin_make
 source ~/{name_of_workspace}/devel/setup.bash
-
 ```
 
 * Command `roslaunch mobile_robot test.launch` will launch the gazebo world along 
@@ -36,13 +37,11 @@ source ~/{name_of_workspace}/devel/setup.bash
 
 ### Simulation Video
 Click on Image to play
-[![Watch the video](https://drive.google.com/file/d/14UZnkJskSmzBEio8NkAA1Ng_3ccjfzua/view?usp=sharing)](https://drive.google.com/file/d/14UZnkJskSmzBEio8NkAA1Ng_3ccjfzua/view?usp=sharing))
+![https://drive.google.com/file/d/1OH6szEyb7mijPEnPgMssP5QMQEAGl-JM/view?usp=drive_link](https://drive.google.com/file/d/1TIgbr7hFeYiUMQglbhnqZhLON5erhb4r/view?usp=drive_link)
 
 
 ## Prerequisites
 * C++14
-* python 2.x
-* PX4 AutoPilot
+* python 3.x
 * ROS Noetic
-* Embedded C
-* Raspberry pi 3B (setup given below)
+* Raspberry pi 3B
