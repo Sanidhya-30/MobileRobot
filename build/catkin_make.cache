@@ -1,0 +1,2 @@
+mobile_robot
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/MobileRobot/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/MobileRobot/install -G Unix Makefiles
