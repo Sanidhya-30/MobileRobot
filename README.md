@@ -1,6 +1,8 @@
 # Mobile Robot
 Repository of Mobile Robot capable of Autonomous navigation and mapping.
 
+![prototype](https://github.com/Sanidhya-30/MobileRobot/blob/master/images/Picture1.png)
+
 ## Key Feature:-
 * multiple purposes AMR.
 * Wall following algorithm using LiDAR data
@@ -36,7 +38,7 @@ source ~/{name_of_workspace}/devel/setup.bash
 
 
 ### Simulation Video
-![https://github.com/Sanidhya-30/MobileRobot/blob/master/images/Picture1.png](https://github.com/Sanidhya-30/MobileRobot/blob/master/images/mobilerobot1.gif)
+![simulation video](https://github.com/Sanidhya-30/MobileRobot/blob/master/images/mobilerobot1.gif)
 
 
 ## Prerequisites
