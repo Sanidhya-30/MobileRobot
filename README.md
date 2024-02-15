@@ -36,8 +36,7 @@ source ~/{name_of_workspace}/devel/setup.bash
 
 
 ### Simulation Video
-Click on Image to play
-![https://drive.google.com/file/d/1OH6szEyb7mijPEnPgMssP5QMQEAGl-JM/view?usp=drive_link](https://drive.google.com/file/d/1TIgbr7hFeYiUMQglbhnqZhLON5erhb4r/view?usp=drive_link)
+![https://github.com/Sanidhya-30/MobileRobot/blob/master/images/Picture1.png](https://github.com/Sanidhya-30/MobileRobot/blob/master/images/mobilerobot1.gif)
 
 
 ## Prerequisites
